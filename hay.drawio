@@ -1,0 +1,43 @@
+<mxfile host="65bd71144e">
+    <diagram id="Akbbpg55vbaQjsIXKFQp" name="Page-1">
+        <mxGraphModel dx="636" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="OCM4ioZpYmx6uD4Ad9_U-7" edge="1" parent="1" source="OCM4ioZpYmx6uD4Ad9_U-1" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OCM4ioZpYmx6uD4Ad9_U-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OCM4ioZpYmx6uD4Ad9_U-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1. Tiếp nhận nhu cầu&lt;div&gt;Người dùng, thị trường hoặc quy định thuế&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="240" x="180" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="OCM4ioZpYmx6uD4Ad9_U-8" edge="1" parent="1" source="OCM4ioZpYmx6uD4Ad9_U-2" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OCM4ioZpYmx6uD4Ad9_U-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OCM4ioZpYmx6uD4Ad9_U-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2. Phân tích và ưu tiên&lt;div&gt;PO xác định giá trị, rủi ro và Product Backlog&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="280" x="160" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="OCM4ioZpYmx6uD4Ad9_U-9" edge="1" parent="1" source="OCM4ioZpYmx6uD4Ad9_U-3" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OCM4ioZpYmx6uD4Ad9_U-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OCM4ioZpYmx6uD4Ad9_U-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3. Lập kế hoạch và thực hiện&lt;div&gt;Đặt xe, thanh toán: Scrum Sprint; Đối soát: quy trình tuần tự có kiểm soát&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="280" x="160" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="OCM4ioZpYmx6uD4Ad9_U-10" edge="1" parent="1" source="OCM4ioZpYmx6uD4Ad9_U-4" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OCM4ioZpYmx6uD4Ad9_U-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OCM4ioZpYmx6uD4Ad9_U-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4. Kiểm thử và xác nhận chất lượng&lt;div&gt;Kiểm tra DoD, kiểm thử nghiệp vụ và tuân thủ&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="280" x="160" y="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="OCM4ioZpYmx6uD4Ad9_U-11" edge="1" parent="1" source="OCM4ioZpYmx6uD4Ad9_U-5" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OCM4ioZpYmx6uD4Ad9_U-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OCM4ioZpYmx6uD4Ad9_U-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="5. Phát hành và thu thập phản hồi&lt;div&gt;Chỉ phát hành khi đáp ứng điều kiện chất lượng và tuân thủ&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="320" x="140" y="680" as="geometry"/>
+                </mxCell>
+                <mxCell id="OCM4ioZpYmx6uD4Ad9_U-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6. Đánh giá và cải tiến&lt;div&gt;Sprint Review, Retrospective hoặc đánh giá sau phát hành&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="320" x="140" y="850" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
